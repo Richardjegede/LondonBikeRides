@@ -40,6 +40,7 @@ By utilizing Moving Averages and Heatmaps, the dashboard provides a clear view o
 
 
 -Interactivity: Implemented Dashboard Actions and Dynamic Tooltips so users can hover over specific data points for granular details.
+
 *The Interactive Dashboard*
 <img width="1353" height="723" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/db65a7f6-3f24-4915-8b1f-ebb3c6f41ee0" />
 
@@ -77,4 +78,4 @@ This helps distinguish between a one-day spike and a genuine upward trend.
 
 -Domain Specifics: Gained a deep understanding of urban micro-mobility trends and how environmental data influences public behavior.
 
--Solo Project Success: Delivered this comprehensive analysis independently, from data cleaning to final presentation. 📈🔥
+-Solo Project Success: Delivered this comprehensive analysis independently, from data cleaning to final presentation. 📈 Thank You for time.
